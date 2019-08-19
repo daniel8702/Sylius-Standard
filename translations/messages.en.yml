@@ -1,0 +1,13 @@
+sylius:
+    ui:
+      colors: Color
+    form:
+        product:
+            extension:
+                color: Choose color
+    product:
+        details:
+            color:
+                red: Red
+                green: Green
+                blue: Blue
