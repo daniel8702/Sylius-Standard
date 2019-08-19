@@ -1,0 +1,5 @@
+App\Entity\Product:
+    type: entity
+    table: sylius_product
+    fields:
+        color: {type: string, nullable: false}
